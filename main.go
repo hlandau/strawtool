@@ -1,7 +1,7 @@
 package main
 
 import (
-	"self.local/strawtool/cli"
+	"github.com/hlandau/strawtool/cli"
 )
 
 func main() {
