@@ -1,7 +1,10 @@
 package cli
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/hlandau/modtest"
+)
 
 func Main() {
-	fmt.Println("This is the CLI.")
+	fmt.Printf("This is the CLI: %v\n", modtest.Value())
 }
