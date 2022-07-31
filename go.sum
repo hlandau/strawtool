@@ -1,2 +1,8 @@
-github.com/hlandau/strawtool v1.0.0 h1:LNV5NSt0yHLyRgdiwYjNAxfkMzCbKNhPOGXOYPl6O6E=
-github.com/hlandau/strawtool v1.0.0/go.mod h1:EYDWvfLJFrhb76a7hoCyITdWJ1e79u0P5PlTGg73UOA=
+github.com/hlandau/modtest v1.0.4 h1:gWfM1kvwZehxyyzh/+0JI+MMLCoKBvacjxS7jL3m84A=
+github.com/hlandau/modtest v1.0.4/go.mod h1:U5zfIe5dtqwlJcJHMErUxEILxfnimCJqJTXfGc/0k58=
+github.com/hlandau/modtestx v1.0.0 h1:uvevCPpv3LYbohLi5/QWChRbwXxgeY20KA5BkwB4QBo=
+github.com/hlandau/modtestx v1.0.0/go.mod h1:NUhAf6hnQfEiVc7Q78SZb2QozjsCrrIu1GxzcRjnlIk=
+github.com/hlandau/modtestx v1.0.1 h1:W+7iXbMknWWyW/WmsbYidgZVsiT5f+7Zl/HLA2v2+hs=
+github.com/hlandau/modtestx v1.0.1/go.mod h1:NUhAf6hnQfEiVc7Q78SZb2QozjsCrrIu1GxzcRjnlIk=
+github.com/hlandau/strawtool v1.0.1 h1:vTb4iVujzk8ZD4A7e1f6GDyg8wEd4GJ0TAVNhqMTM6A=
+github.com/hlandau/strawtool v1.0.1/go.mod h1:EYDWvfLJFrhb76a7hoCyITdWJ1e79u0P5PlTGg73UOA=
